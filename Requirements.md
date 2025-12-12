@@ -6,4 +6,4 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/Matplotlib-005C91?style=for-the-badge&logo=plotly&logoColor=white)
 ![seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white)
-![xgboost](https://img.shields.io/badge/XGBoost-FF8C00?style=for-the-badge&logo=xgboost&logoColor=white)
+
