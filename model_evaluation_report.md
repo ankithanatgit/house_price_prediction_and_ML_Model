@@ -7,8 +7,6 @@ The model aims to assist in understanding price drivers and provide data-driven 
 
 Dataset used: house_prices.csv
 
-Total rows: (based on your uploaded file — assume around typical dataset size)
-
 Target variable: price
 
 Feature types:
